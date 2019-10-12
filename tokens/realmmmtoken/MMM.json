@@ -1,0 +1,17 @@
+{
+  "name": "MMM",
+  "symbol": "MMM",
+  "contract": "realmmmtoken",
+  "issuer": "realmmmtoken",
+  "precision": 4,
+  "logo": "https://github.com/BlockABC/eos-tokens/blob/master/tokens/realmmmtoken/MMM.png",
+  "desc": {
+    "en": "EOS Makes More Millionaires",
+    "zh": "EOS让更多人成为百万富翁",
+    "ko": "EOS 더 많은 사람들이 백만장자가 되도록",
+    "jp": "EOS多くの人が百万長者になります"
+  },
+  "website": "https://eosmmm.io",
+  "whitepaper": "",
+  "links": {}
+}
